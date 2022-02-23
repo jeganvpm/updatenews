@@ -1,0 +1,121 @@
+{
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "MacRumors"
+        },
+        "author": "Juli Clover",
+        "title": "Apple Shares 'Life is But a Dream' Shot on iPhone 13 Pro Film - MacRumors",
+        "description": "Apple today shared a short movie called \"Life is But a Dream,\" which was created by South Korean film director Park Chan-wook, who is known...",
+        "url": "https://www.macrumors.com/2022/02/17/apple-shot-on-iphone-13-pro-film/",
+        "urlToImage": "https://images.macrumors.com/t/0vuyeVaTmMM-rt5o3ukl1_k0PBE=/1600x/article-new/2022/02/shot-on-iphone-park-film.jpg",
+        "publishedAt": "2022-02-18T03:54:38Z",
+        "content": "Apple today shared a short movie called \"Life is But a Dream,\" which was created by South Korean film director Park Chan-wook, who is known for \"Oldboy,\" \"The Handmaiden,\" \"Lady Vengeance,\" and more.… [+591 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "HT Tech",
+        "title": "Amazing new Gmail feature lets you disable phone notifications from desktop! - HT Tech",
+        "description": "New Gmail feature allows users to pause notifications on their smartphones when they are active on the desktop.",
+        "url": "https://tech.hindustantimes.com/tech/news/amazing-new-gmail-feature-lets-you-disable-phone-notifications-from-desktop-71645152964344.html",
+        "urlToImage": "https://images.hindustantimes.com/tech/img/2022/02/18/1600x900/Web_capture_18-2-2022_81910_pixabay.com_1645153298615_1645153321376.jpeg",
+        "publishedAt": "2022-02-18T03:04:05Z",
+        "content": "Google email service is reportedly undergoing a makeover that will bring several new features. With this new Gmail feature, users will be given an option to pause notification on their smartphones wh… [+1737 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "GSMArena.com"
+        },
+        "author": "Vlad",
+        "title": "Samsung tells the story behind the design of the Galaxy S22 series - GSMArena.com news - GSMArena.com",
+        "description": "The company's marketing team is praising its design team.",
+        "url": "https://www.gsmarena.com/samsung_tells_the_story_behind_the_design_of_the_galaxy_s22_series-news-53208.php",
+        "urlToImage": "https://fdn.gsmarena.com/imgroot/news/22/02/samsung-galaxy-s22-design-story/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2022-02-18T02:57:01Z",
+        "content": "If you ever wondered what the story behind the design of Samsung's latest and greatest flagships was, this is for you. That is, if you like reading PR speak gibberish in your spare time, as we do. If… [+2801 chars]"
+      },
+      {
+        "source": {
+          "id": "globo",
+          "name": "Globo"
+        },
+        "author": null,
+        "title": "O Assunto #647: Celular roubado - muito além do aparelho - G1",
+        "description": "Quem ainda não foi vítima tem pelo menos um familiar ou conhecido que já foi. Ver o telefone ser levado por ladrões, em abordagens cada vez mais violentas, vai se tornando cena recorrente nas cidades brasileiras. O choque do momento pode se desdobrar em meses…",
+        "url": "https://g1.globo.com/podcast/o-assunto/noticia/2022/02/17/o-assunto-647-celular-roubado-muito-alem-do-aparelho.ghtml",
+        "urlToImage": "https://s2.glbimg.com/tEwHn-jmbBTRf0uwaEETvwQiFas=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/u/p/MCvi3PSlO2kC6DnaSVmg/podcasts-3000x1688-sem-logo-02.png",
+        "publishedAt": "2022-02-18T02:34:00Z",
+        "content": "Quem ainda não foi vítima tem pelo menos um familiar ou conhecido que já foi. Ver o telefone ser levado por ladrões, em abordagens cada vez mais violentas, vai se tornando cena recorrente nas cidades… [+1271 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Editalconcursosbrasil.com.br"
+        },
+        "author": "Gabriela Stahler",
+        "title": "Como ler mensagens no WhatsApp sem que seu contato descubra - Edital Concursos Brasil",
+        "description": "Alguns programas e aplicativos prometem esconder o status do usuário. Porém existem outros métodos alternativos que também funcionam e não precisam de programas externos.",
+        "url": "https://editalconcursosbrasil.com.br/?p=217014",
+        "urlToImage": "https://editalconcursosbrasil.com.br/wp-content/uploads/2021/07/WhatsApp.jpg",
+        "publishedAt": "2022-02-18T00:59:00Z",
+        "content": "Todos os usuários do WhatsApp já se depararam com o desejo do anonimato. Embora seja possível camuflar a visualização da mensagem por meio dos tracinhos azuis, o online pode te denunciar. Será que é … [+2302 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Cointelegraph"
+        },
+        "author": "Jordan Finneseth",
+        "title": "Los alcistas de Bitcoin luchan por defender los USD 40,000 mientras se intensifica la caída del mercado de criptomonedas - Cointelegraph en Español (Noticias sobre Bitcoin, Blockchain y el futuro del dinero)",
+        "description": "BTC y las altcoins se vieron afectados por otra ronda de ventas, puesto que los analistas afirman que el empeoramiento del clima macroeconómico amenaza con empujar el precio de Bitcoin por debajo de los USD 40,000.",
+        "url": "https://es.cointelegraph.com/news/bitcoin-bulls-scramble-to-defend-40-000-as-the-crypto-market-sell-off-intensifies",
+        "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDIvOGZjNzQyYzYtNDEyYi00ZjYwLThmMjktMTkxYWI5MzE2ZjZjLmpwZw==.jpg",
+        "publishedAt": "2022-02-18T00:56:00Z",
+        "content": "Bitcoin (BTC) y las altcoins cayeron aún más el 17 de febrero luego de que la situación en Ucrania empeorara y Rusia expulsara del país a Bart Gorman, jefe adjunto de la misión diplomática de Estados… [+3039 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MDZ Online"
+        },
+        "author": "MDZ Sociedad",
+        "title": "A quiénes les dona parte de su fortuna Elon Musk - MDZ Online",
+        "description": "Elon Musk creo la Fundación Musk para ayudar en diversas causas. A fines del 2021 genero polémica por una donación que nunca se supo cuál fue.",
+        "url": "https://www.mdzol.com/sociedad/2022/2/17/quienes-les-dona-parte-de-su-fortuna-elon-musk-222629.html",
+        "urlToImage": "https://www.mdzol.com/u/fotografias/m/2022/2/17/f1280x720-1179115_1310790_4530.jpg",
+        "publishedAt": "2022-02-18T00:52:42Z",
+        "content": "Elon Musk se convirtió en uno de los hombres más ricos del mundo luego de cofundar PayPal, SpaceX, Hyperloop, SolarCity, The Boring Company, Neuralink y OpenAI, además de ser el CEO de Tesla, entre o… [+1728 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo Australia"
+        },
+        "author": null,
+        "title": "Supersize Your Nintendo Switch Storage With These Micro SD Deals - Gizmodo Australia",
+        "description": "The Nintendo Switch's piddly internal storage is a real drag.",
+        "url": "https://www.gizmodo.com.au/2022/02/nintendo-switch-increase-storage/",
+        "urlToImage": "https://imgix.gizmodo.com.au/content/uploads/sites/2/2022/02/18/Screen-Shot-2022-02-18-at-10.35.17-am-e1645141051418.png?ar=16%3A9&auto=format&fit=crop&q=65&w=1200",
+        "publishedAt": "2022-02-18T00:30:00Z",
+        "content": "At Gizmodo, we independently select and write about stuff we love and think you'll like too. We have affiliate and advertising partnerships, which means we may collect a share of sales or other compe… [+3535 chars]"
+      },
+      {
+        "source": {
+          "id": "infobae",
+          "name": "Infobae"
+        },
+        "author": "anónimo",
+        "title": "Policía asegura que suspendió la audiencia de Otoniel por filtración de información - infobae",
+        "description": "La institución asegura que se reveló la ubicación exacta de Úsuga al momento de la audiencia, lo que pudo haber derivado en su fuga, pues hay información de inteligencia de que el grupo criminal que dirigía está intentando liberarlo",
+        "url": "https://www.infobae.com/america/colombia/2022/02/17/policia-asegura-que-suspendio-la-audiencia-de-otoniel-por-filtracion-de-informacion/",
+        "urlToImage": "https://www.infobae.com/new-resizer/e8HUoX1h5jIgTIwhmvgPjwJ0Y4k=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/KKGJ2OWRBJDQFO6H7BOCLUQS2E.jpg",
+        "publishedAt": "2022-02-17T23:53:54Z",
+        "content": "Ante la denuncia de uniformados interrumpiendo abruptamente en la celda de Dairo Antonio Úsuga David, alias Otoniel, cabecilla del Clan del Golfo, la Policía Nacional aseguró que la acción fue necesa… [+3935 chars]"
+      }
+    ]
+  }

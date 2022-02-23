@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<title>Feedback</title>
+<style>
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+body{
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+section{
+    position:absolute;
+    height: 100%;
+    width:100%;
+    background: url("feedback.jpg");
+    background-size: cover;
+    background-position: center;
+    filter: blur(1px) brightness(70%);
+}
+.container{
+    width: 360px;
+    background: black;
+    box-shadow: 0px 0px 8px rgba(250, 250, 250, 0.9);
+    opacity: 0.6;
+}
+.container form{
+    width: 100%;
+    text-align: center;
+    padding:25px 20px
+}
+form h1{
+    padding: 10px 0px;
+}
+form .id{
+    position: relative;
+}
+.id i{
+    position: absolute;
+    font-size: 20px;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+
+}
+form input{
+    height: 50px;
+    width: 100%;
+    margin:4px 0;
+    border: 1px solid grey;
+    border-radius:3px;
+    background: #181717;
+    padding:0 15px;
+    padding-right: 45px;
+    font-size:  20px;
+}
+form textarea{
+    padding:5px 15px;
+    border: 1px solid grey;
+    border-radius:3px;
+    background: #181717;
+    padding:0 15px;
+    font-size:  20px;
+    width: 100%;
+    margin:4px 0;
+}
+form button{
+    margin-top: 5px;
+    border: none;
+    background: red;
+    color: #222;
+    padding: 10px 0;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 800;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+form input:focus,
+form textarea:focus{
+    border: 1px solid red;
+    color: red;
+    transition: all 0.3s ease;
+
+}
+form input:focus::placeholder,
+form textarea:focus::placeholder{
+    padding-left: 4px;
+    color: white;
+    transition: all 0.3s ease;  
+}
+
+</style>
+</head>
+
+<body>
+    <section></section>
+    <div class="container">
+        <form onsubmit="fun()">
+            <h2>Give Your Feedback</h2>
+            <div class="id">
+                <input type="text" name="text" id="" placeholder="Full Name" required>
+                <i class="glyphicon glyphicon-user"></i>
+            </div>
+            <div class="id">
+                <input type="email" name="email" id="" placeholder="Email Address" required>
+                <i class="glyphicon glyphicon-envelope"></i>
+            </div>
+            <textarea name="opinion" id="" cols="24" rows="5" placeholder="share your opinions here..." required></textarea>
+            <button>Submit</button>
+            <a href="index.html" style="text-decoration: none; color:grey; margin-top: 5px;">Back to homepage</a>
+        </form>
+    </div>
+    <script>
+        function fun() {
+            alert("Thank you for your feedback");
+        }
+    </script>
+</body>
+
+</html>
